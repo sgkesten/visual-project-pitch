@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "vitepress": "^0.4.1"
+  },
+  "scripts": {
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
