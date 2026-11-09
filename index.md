@@ -1,2 +1,2 @@
 # Hello VitePress
-![An image](./splashpage.png)
+![An image](./splashpage.jng)
